@@ -11,6 +11,8 @@
             border: 2px solid #ddd;
             border-radius:5px;
             padding: 20px;
+            border-color:aqua;
+            font-family: 'Times New Roman', Times, serif;
         }
     </style>
 </head>
